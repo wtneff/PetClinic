@@ -14,7 +14,7 @@
     </parent>
     <groupId>me.tannerneff</groupId>
     <artifactId>pet-clinic</artifactId>
-    <version>0.0.3</version>
+    <version>0.0.4-SNAPSHOT</version>
     <name>pet-clinic</name>
     <description>My implementation of the PetClinic app</description>
 
@@ -42,7 +42,7 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/wtneff/PetClinic.git</developerConnection>
-      <tag>pet-clinic-0.0.3</tag>
+      <tag>HEAD</tag>
   </scm>
 
 </project>
