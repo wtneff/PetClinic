@@ -42,7 +42,6 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/wtneff/PetClinic.git</developerConnection>
-      <tag>HEAD</tag>
-  </scm>
+    </scm>
 
 </project>
