@@ -1,11 +1,11 @@
 package me.tannerneff.petclinic.services.map;
 
 import me.tannerneff.petclinic.model.Vet;
-import me.tannerneff.petclinic.services.CrudService;
+import me.tannerneff.petclinic.services.VetService;
 
 import java.util.Set;
 
-public class VetServiceMap extends AbstractMapService<Vet, Long> implements CrudService<Vet, Long> {
+public class VetServiceMap extends AbstractMapService<Vet, Long> implements VetService {
     @Override
     public Set<Vet> findAll() {
         return super.findAll();
@@ -25,6 +25,7 @@ public class VetServiceMap extends AbstractMapService<Vet, Long> implements Crud
     public void delete(Vet object) {
         super.delete(object);
     }
+
 
     @Override
     public void deleteById(Long id) {
