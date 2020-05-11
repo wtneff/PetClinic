@@ -1,5 +1,14 @@
-me\tannerneff\petclinic\model\Vet.class
-me\tannerneff\petclinic\model\Owner.class
 me\tannerneff\petclinic\model\Person.class
-me\tannerneff\petclinic\model\PetType.class
+me\tannerneff\petclinic\model\Owner.class
 me\tannerneff\petclinic\model\Pet.class
+me\tannerneff\petclinic\services\OwnerService.class
+me\tannerneff\petclinic\model\Vet.class
+me\tannerneff\petclinic\services\CrudService.class
+me\tannerneff\petclinic\services\map\OwnerServiceMap.class
+me\tannerneff\petclinic\model\BaseEntity.class
+me\tannerneff\petclinic\model\PetType.class
+me\tannerneff\petclinic\services\PetService.class
+me\tannerneff\petclinic\services\map\VetServiceMap.class
+me\tannerneff\petclinic\services\VetService.class
+me\tannerneff\petclinic\services\map\AbstractMapService.class
+me\tannerneff\petclinic\services\map\PetServiceMap.class

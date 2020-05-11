@@ -1,5 +1,14 @@
-C:\Users\wneff\Documents\Java\Spring\PetClinic\pet-clinic-data\src\main\java\me\tannerneff\petclinic\model\Vet.java
+C:\Users\wneff\Documents\Java\Spring\PetClinic\pet-clinic-data\src\main\java\me\tannerneff\petclinic\model\BaseEntity.java
+C:\Users\wneff\Documents\Java\Spring\PetClinic\pet-clinic-data\src\main\java\me\tannerneff\petclinic\services\map\AbstractMapService.java
+C:\Users\wneff\Documents\Java\Spring\PetClinic\pet-clinic-data\src\main\java\me\tannerneff\petclinic\services\map\PetServiceMap.java
 C:\Users\wneff\Documents\Java\Spring\PetClinic\pet-clinic-data\src\main\java\me\tannerneff\petclinic\model\Person.java
+C:\Users\wneff\Documents\Java\Spring\PetClinic\pet-clinic-data\src\main\java\me\tannerneff\petclinic\services\OwnerService.java
+C:\Users\wneff\Documents\Java\Spring\PetClinic\pet-clinic-data\src\main\java\me\tannerneff\petclinic\services\map\OwnerServiceMap.java
+C:\Users\wneff\Documents\Java\Spring\PetClinic\pet-clinic-data\src\main\java\me\tannerneff\petclinic\services\map\VetServiceMap.java
+C:\Users\wneff\Documents\Java\Spring\PetClinic\pet-clinic-data\src\main\java\me\tannerneff\petclinic\services\PetService.java
+C:\Users\wneff\Documents\Java\Spring\PetClinic\pet-clinic-data\src\main\java\me\tannerneff\petclinic\services\VetService.java
+C:\Users\wneff\Documents\Java\Spring\PetClinic\pet-clinic-data\src\main\java\me\tannerneff\petclinic\model\Vet.java
+C:\Users\wneff\Documents\Java\Spring\PetClinic\pet-clinic-data\src\main\java\me\tannerneff\petclinic\services\CrudService.java
 C:\Users\wneff\Documents\Java\Spring\PetClinic\pet-clinic-data\src\main\java\me\tannerneff\petclinic\model\Pet.java
 C:\Users\wneff\Documents\Java\Spring\PetClinic\pet-clinic-data\src\main\java\me\tannerneff\petclinic\model\Owner.java
 C:\Users\wneff\Documents\Java\Spring\PetClinic\pet-clinic-data\src\main\java\me\tannerneff\petclinic\model\PetType.java

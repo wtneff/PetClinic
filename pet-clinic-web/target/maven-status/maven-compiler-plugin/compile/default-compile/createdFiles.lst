@@ -1,1 +1,5 @@
+me\tannerneff\petclinic\controllers\OwnerController.class
+me\tannerneff\petclinic\controllers\IndexController.class
+me\tannerneff\petclinic\bootstrap\DataLoader.class
+me\tannerneff\petclinic\controllers\VetController.class
 me\tannerneff\petclinic\PetClinicApplication.class
